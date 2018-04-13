@@ -1,6 +1,6 @@
 # Attention based Language Translation in Keras
 
-This is a minimal Attention based sequence to sequence neural machine translation model built in keras. 
+This is a Attention based sequence to sequence neural machine translation model built in keras. 
 
 The same code can be used for any text based sequence to sequence task such as a chatbot!. 
 
